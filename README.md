@@ -1,4 +1,4 @@
-# calorymita
+# Calorymita
 A fun project to learn/use Cockroach DB, Linode, CircleCI and Github for Revolution UC 2022 hackathon. Built by Salisu Ali, a 500 level Medical Student of Bayero University Kano, Nigeria. I have Passion for technology and want to explore new things.
 
 ## Technologies Used
