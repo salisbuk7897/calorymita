@@ -1,0 +1,28 @@
+extends layout
+
+block header
+    link(rel='stylesheet', href='/stylesheets/slider.css')
+    style.
+        body, html {
+            height: 100%;
+        }
+
+        .bg {
+            /* The image used */
+            background-image: src("/images/tp2.png");
+
+            /* Full height */
+            height: 100%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+block content
+    .row 
+        .col-md-6 
+            div(class="bg")
+            
+        .col-md-6

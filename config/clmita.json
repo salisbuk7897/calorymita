@@ -1,0 +1,5 @@
+{
+    "cockroachDB_IP" : "localhost",
+    "cockroachDB_port" : "26257",
+    "cockroachdb_name" : "calorymita"
+}
